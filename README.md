@@ -1,40 +1,30 @@
-# Python Assignment 1 — Strings & Tuples
+# Python Data Structures — Strings & Tuples
 
-### Python Data Structures Fundamentals
+### Python Fundamentals
 
-A beginner-level Python assignment focused on working with **Strings and Tuples** using **Jupyter Notebook**.
+A Python project focused on the fundamentals of **Strings and Tuples** using **Jupyter Notebook**.
 
-This assignment demonstrates fundamental operations such as string concatenation, indexing, slicing, string methods, tuple concatenation, repetition, indexing, and slicing.
+This project demonstrates string concatenation, indexing, slicing, string methods, tuple concatenation, repetition, indexing, and slicing.
 
 ---
 
-## 📌 Objectives
+## 📌 Overview
 
-The objective of this assignment is to practice:
+This project provides hands-on practice with fundamental Python operations involving **Strings** and **Tuples**.
 
-- String concatenation
-- String indexing and slicing
-- String manipulation using built-in methods
-- Tuple creation and concatenation
-- Tuple repetition
-- Tuple indexing and slicing
+The exercises cover basic string manipulation and tuple operations, providing a foundation for working with Python data structures.
 
 ---
 
 ## 🧩 Topics Covered
 
-### 1. String Concatenation
+### 1. Strings
 
-The assignment demonstrates how to:
-
-- Take a name as user input
-- Concatenate the name with `"Hello "`
+#### String Concatenation
+- Concatenate `"Hello "` with a name entered by the user
 - Add `", welcome to Python programming"` to the existing string
 
-### 2. String Slicing & Indexing
-
-The concatenated string is used to:
-
+#### String Slicing & Indexing
 - Access the first character
 - Access the last character
 - Extract the first five characters
@@ -42,9 +32,9 @@ The concatenated string is used to:
 - Reverse the string
 - Extract the word `"Python"` using slicing
 
-### 3. String Methods
+#### String Methods
 
-Using the string:
+Using:
 
 ```python
 strM = "Python beginner tutorial"
